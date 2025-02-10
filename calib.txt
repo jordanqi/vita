@@ -1,0 +1,5 @@
+samples.txt:
+Hello, how are you?
+Describe the image you see.
+What is the capital of France?
+Write a short story about AI.
